@@ -1,0 +1,10 @@
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\bin\Debug\sandwich bar.exe.config
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\bin\Debug\sandwich bar.exe
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\bin\Debug\sandwich bar.pdb
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich bar.csprojAssemblyReference.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich_bar.Form1.resources
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich_bar.Properties.Resources.resources
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich bar.csproj.GenerateResource.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich bar.csproj.CoreCompileInputs.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich bar.exe
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\sandwich bar\sandwich bar\obj\Debug\sandwich bar.pdb
